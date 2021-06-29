@@ -1,6 +1,7 @@
 {
   "files.associations": {
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "*.fragmentshader": "cpp"
   },
   "C_Cpp.default.includePath": ["/usr/local/include"]
 }
